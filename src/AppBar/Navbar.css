@@ -1,0 +1,12 @@
+.nav-item:hover {
+  color: #93c5fd !important;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 27px;
+  text-decoration-thickness: 2px;
+}
+.nav-item {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
